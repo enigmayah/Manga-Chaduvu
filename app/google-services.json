@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807064830623",
+    "project_id": "anime-girl-profile-pictures",
+    "storage_bucket": "anime-girl-profile-pictures.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807064830623:android:5eb53493f232f4b4ed58aa",
+        "android_client_info": {
+          "package_name": "com.example.animegirlprofilepictures"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfVC8CukWKcBhXwVAEd4RV0oO8HvgM0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807064830623:android:46efc613abf00dbbed58aa",
+        "android_client_info": {
+          "package_name": "com.example.mangachaduvu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfVC8CukWKcBhXwVAEd4RV0oO8HvgM0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
